@@ -1,0 +1,20 @@
+body{
+	 text-align:center;
+	 background:#F2F2F2;
+}
+
+h3{
+	padding: 0px;
+	margin: 2px;
+}
+input{
+	padding: 2px;
+	margin: 6px;
+}
+
+.button{
+	padding: 2px;
+	color: black;
+	font-weight:bold;
+	margin: 6px;
+}
